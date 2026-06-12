@@ -1,3 +1,8 @@
+## Diagrams
+
+- [Ticket Lifecycle Diagram](diagrams/ticket-lifecycle-diagram.md)
+
+  
 # IT Support Ticket Documentation
 
 This repository contains practical IT support and service desk documentation examples. The goal of this project is to demonstrate troubleshooting ability, ticket documentation, technical communication, escalation awareness, and user-focused support.
